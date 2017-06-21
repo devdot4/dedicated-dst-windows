@@ -3,12 +3,14 @@
   <img src="readme.gif">
 </p>
 
+#### I followed the guide by: [V2C](http://forums.kleientertainment.com/topic/64212-dedicated-server-quick-setup-guide-windows/)
+
 #### Klei folder goes to `C:\Users\YOUR-PC\Documents\Klei` (`C:\Users\Dev\Documents\Klei`)
 
 #### steamcmd folder goes to `C:\` (`C:\steamcmd`)
 but you can put it where ever you want (You will need to adjust the location on StartDSTServers.bat file)
 
-#### If you are planning to have mods then follow this guide! [CLICK ME!](http://forums.kleientertainment.com/topic/66820-help-dedicated-server-mods/)
+#### If you are planning to have mods then follow this guide! [CLICK ME!](http://forums.kleientertainment.com/topic/66820-help-dedicated-server-mods/?page=0#comment-762035)
 
 Here's a snippet:
 
