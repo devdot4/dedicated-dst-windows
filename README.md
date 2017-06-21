@@ -1,4 +1,7 @@
-<div style="text-align:center"><img src ="readme.gif" /></div><br>
+<p align="center">
+  <br><br>
+  <img src="readme.gif">
+</p>
 
 #### Klei folder goes to `C:\Users\YOUR-PC\Documents\Klei` (`C:\Users\Dev\Documents\Klei`)
 
